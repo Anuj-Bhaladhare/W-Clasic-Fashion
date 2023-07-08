@@ -398,6 +398,12 @@ img {
     align-items: center;
     justify-content: center;
   } */
+  .mans-wear-name{
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    font-size: 19px;
+  }
 
 .main-ladies-wear-div {
   padding-top: 50px;
