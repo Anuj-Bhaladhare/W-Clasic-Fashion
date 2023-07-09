@@ -63,7 +63,7 @@ text-transform: uppercase;
 }
 
 .upper-navbaar {
-background-image: url("./nav-bg.jpg");
+background-image: url("../photos/nav-bg.jpg");
 background-repeat: no-repeat;
 background-size: 100% 100%;
 display: flex;
